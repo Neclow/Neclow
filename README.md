@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neclow
 - 👀 I’m interested in deep learning, audio and speech processing, behavioral neuroscience, phylogenetics
 - 🌱 I’m currently learning [Julia](http://www.julialang.org)
-- 📫 How to reach me: neclow.github.io
+- 📫 How to reach me: [neclow.github.io](neclow.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neclow&count_private=true)
 
