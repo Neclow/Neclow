@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neclow
-- 👀 I’m interested in deep learning, audio and speech processing, behavioral neuroscience, phylogenetics
+- 👀 I’m interested in deep learning, audio and speech processing, behavioral neuroscience, phylogenetics and much more!
 - 🌱 I’m currently learning [Julia](http://www.julialang.org) and [Jax](https://github.com/google/jax)
 - 📫 How to reach me: [neclow.github.io](neclow.github.io)
 
