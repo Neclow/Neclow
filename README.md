@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [Julia](http://www.julialang.org), [SQL](https://www.postgresql.org/), and [Jax](https://github.com/google/jax)
 - 📫 How to reach me: [neclow.github.io](https://neclow.github.io)
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Neclow&count_private=true)"
+# ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Neclow&count_private=true)"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neclow&layout=compact&hide=m)](https://github.com/anuraghazra/github-readme-stats)
 
