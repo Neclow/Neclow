@@ -6,7 +6,7 @@
   - [SERAB](https://github.com/Neclow/GradME): a benchmark for speech emotion recognition
   - [A data visualization course](https://github.com/ku-dviz/2024) given to PhD students in 2023 and 2024
   - [An analysis of SARS-CoV-2 genomes from Denmark](https://github.com/Neclow)
-  - A few TeX templates to write [preprints](https://github.com/Neclow/preprint_template) and [Master theses](https://github.com/Neclow/MasterThesisTemplate) For EPFL students
+  - A few TeX templates to write [preprints](https://github.com/Neclow/preprint_template) and [EPFL Master theses](https://github.com/Neclow/MasterThesisTemplate)
 - 📫 How to reach me: [neclow.github.io](https://neclow.github.io)
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neclow&layout=compact&hide=m&size_weight=0.09&count_weight=0.91)>
