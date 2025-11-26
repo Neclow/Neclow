@@ -5,6 +5,7 @@
   - [Phylo2Vec](https://github.com/sbhattlab/phylo2vec): a library for phylogenetic manipulation based on a vector-based encoding of binary trees
   - [SERAB](https://github.com/Neclow/GradME): a benchmark for speech emotion recognition (2021)
   - [A data visualization course](https://github.com/ku-dviz/2024) given to PhD students in 2023 and 2024
+  - [Developing new early warning scores for emergency wards](https://github.com/MLGlobalHealth/Early_Warning_Scores)
   - [An analysis of SARS-CoV-2 genomes from Denmark](https://github.com/MLGlobalHealth/sars_cov2_290k_denmark)
   - [Using animal tracking to predict infection in chickens](https://github.com/Neclow/dlc4ecoli)
   - A few TeX templates to write [preprints](https://github.com/Neclow/preprint_template) and [EPFL Master theses](https://github.com/Neclow/MasterThesisTemplate)
