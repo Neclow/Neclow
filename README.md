@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Neclow
-- 🎇 I'm a PhD student at the University of Copenhagen (Section of Health Data Science & AI)
+- 🎇 Postdoc at the University of Copenhagen (Section of Health Data Science & AI)
 - ⚙️ I use daily `.cpp`, `.ipynb`, `.py`, `.R`, `.rs`, `.tex`
 - 🛠️ My projects:
   - [Phylo2Vec](https://github.com/sbhattlab/phylo2vec): a library for phylogenetic manipulation based on a vector-based encoding of binary trees
