@@ -11,7 +11,7 @@
   - A few TeX templates to write [preprints](https://github.com/Neclow/preprint_template) and [EPFL Master theses](https://github.com/Neclow/MasterThesisTemplate)
 - Website: [neclow.github.io](https://neclow.github.io)
 
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neclow&layout=compact&hide=m&size_weight=0.09&count_weight=0.91)>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neclow&layout=compact&hide=html,jupyter%20notebook,cmake)
 
 <!---
 Neclow/Neclow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
